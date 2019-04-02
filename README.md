@@ -18,6 +18,7 @@ Available functionalities:
 - displaying available magazines, newspapers,
 - adding new users,
 - displaying existing users.
+
 The library is saved to a file when the application is closed.
 
 ## Screenshots
